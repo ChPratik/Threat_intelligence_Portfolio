@@ -2,7 +2,7 @@
 
 > **Structured vulnerability research, analysis & reporting**
 
-This repository serves as a living portfolio of threat intelligence investigations — combining automated CVE enrichment, MITRE ATT&CK mapping, malware/IOC analysis, exploit research, and executive reporting into a single, auditable workflow.
+This repository serves as a living portfolio of threat intelligence investigations — combining CVE enrichment, MITRE ATT&CK mapping, malware/IOC analysis, exploit research, and executive reporting into a single, auditable workflow.
 
 ---
 
