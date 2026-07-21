@@ -205,7 +205,7 @@ Each investigation directory contains:
 | 📁 `THREAT_INTEL_INVESTIGATION/` | Threat actor context, CISA KEV cross-reference |
 | 📁 `MITRE_INVESTIGATION/` | ATT&CK technique mapping & mitigations |
 | 📁 `MALWARE_INVESTIGATION/` | Malware telemetry — MalwareBazaar, ThreatFox, URLhaus |
-| 📁 `IOC_INVESTIGATION/` | Indicators of Compromise — Shodan, Censys, OTX |
+| 📁 `IOC_INVESTIGATION/` | Indicators of Compromise — Shodan, Censys, OTX, MISP Galaxy/Taxonomy |
 | 📁 `EXPLOIT_INVESTIGATION/` | Exploit reconnaissance — Exploit-DB, GitHub |
 | 📁 `FULL_REPORT_TOOL/` | Aggregated multi-agent pipeline output |
 | 📄 `*_CEO_REPORT.md` | Executive report — risk assessment & remediation |
@@ -220,7 +220,7 @@ Each investigation directory contains:
 | 2 | **Threat Context** | CISA KEV Catalog · Threat Actor / Ransomware Association |
 | 3 | **MITRE ATT&CK** | MITRE ATT&CK v14 — Heuristic + Evidence-Based Mapping |
 | 4 | **Malware Telemetry** | MalwareBazaar · ThreatFox · URLhaus · Pulsedive · VirusTotal |
-| 5 | **IOC Collection** | AbuseIPDB · AlienVault OTX · Shodan · Censys |
+| 5 | **IOC Collection** | AbuseIPDB · AlienVault OTX · Shodan · Censys · **MISP Galaxy** · **MISP Taxonomy** |
 | 6 | **Exploit Recon** | Exploit-DB · GitHub Public Repository Search |
 | 7 | **Executive Reporting** | SSVC v2.0.3 Scoring · Risk Assessment · Remediation Directives |
 
@@ -234,6 +234,7 @@ Each investigation directory contains:
 | **Threat Intelligence** | <img src="https://img.shields.io/badge/-CISA_KEV-FF0000?style=flat-square"/> <img src="https://img.shields.io/badge/-GitHub_Advisories-181717?style=flat-square"/> <img src="https://img.shields.io/badge/-AttackerKB-FF4500?style=flat-square"/> |
 | **Malware Telemetry** | <img src="https://img.shields.io/badge/-MalwareBazaar-FF4444?style=flat-square"/> <img src="https://img.shields.io/badge/-ThreatFox-8B0000?style=flat-square"/> <img src="https://img.shields.io/badge/-URLhaus-CC0000?style=flat-square"/> <img src="https://img.shields.io/badge/-Pulsedive-4B0082?style=flat-square"/> |
 | **Infrastructure Intel** | <img src="https://img.shields.io/badge/-Shodan-FF4444?style=flat-square"/> <img src="https://img.shields.io/badge/-Censys-008080?style=flat-square"/> <img src="https://img.shields.io/badge/-AlienVault_OTX-00BFFF?style=flat-square"/> |
+| **IOC Enrichment** | <img src="https://img.shields.io/badge/-MISP_Galaxy-8B0000?style=flat-square"/> <img src="https://img.shields.io/badge/-MISP_Taxonomy-8B0000?style=flat-square"/> |
 | **Exploit Intel** | <img src="https://img.shields.io/badge/-Exploit_DB-FF6600?style=flat-square"/> <img src="https://img.shields.io/badge/-GitHub_Search-181717?style=flat-square"/> |
 | **Frameworks** | MITRE ATT&CK v14 · SSVC v2.0.3 · CVSS 3.1 · CWE |
 
