@@ -172,7 +172,7 @@
 | **Suspected Actor** | TA505 (financially motivated — BEC, malware distribution) |
 | **MITRE Techniques** | T1190 (Exploit Public-Facing App) · T1573 (Encrypted Channel) |
 
-**Summary:** Cloudflare Workers subdomain exhibiting extensive open port exposure and encrypted channel patterns consistent with C2 infrastructure. High abuse confidence across all intelligence sources.
+**Summary:** Cloudflare Workers subdomain exhibiting extensive open port exposure and encrypted channel patterns consistent with C2 infrastructure. High abuse confidence across all intelligence sources. IOC report enriched with MISP Galaxy/Taxonomy threat intelligence context.
 
 ➡️ [Executive Report](Investigation/domain/morning-cell-6811.nukisora1808.workers.dev/morning-cell-6811.nukisora1808.workers.dev_CEO_REPORT.md)
 
