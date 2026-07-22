@@ -34,12 +34,12 @@
 |--------|---------|------|:----:|:----:|:--------:|--------|
 | [CVE-2026-44359](Investigation/CVE/CVE-2026-44359/FULL_REPORT_TOOL/CVE-2026-44359_CEO_REPORT.md) | Meshtastic Firmware | CI Poisoning — Arbitrary Code Execution | <img src="https://img.shields.io/badge/CVSS-10.0-cc0000?style=flat-square"/> | <img src="https://img.shields.io/badge/EPSS-1.00%25-dfb317?style=flat-square"/> | 0/567 | ✅ Patched |
 | [CVE-2026-45659](Investigation/CVE/CVE-2026-45659/FULL_REPORT_TOOL/CVE-2026-45659_CEO_REPORT.md) | Microsoft SharePoint | Deserialization — Remote Code Execution | <img src="https://img.shields.io/badge/CVSS-N%2FA-555?style=flat-square"/> | <img src="https://img.shields.io/badge/EPSS-3.22%25-e05d44?style=flat-square"/> | 7/67 | 🔴 Open |
-| [CVE-2026-56155](Investigation/CVE/CVE-2026-56155/FULL_REPORT_TOOL/CVE-2026-56155_CEO_REPORT.md) | Microsoft AD FS | Elevation of Privilege | <img src="https://img.shields.io/badge/CVSS-7.8-e05d44?style=flat-square"/> | <img src="https://img.shields.io/badge/EPSS-3.79%25-e05d44?style=flat-square"/> | 0/1* | 🔴 Open |
+| [CVE-2026-56155](Investigation/CVE/CVE-2026-56155/FULL_REPORT_TOOL/CVE-2026-56155_CEO_REPORT.md) | Microsoft AD FS | Elevation of Privilege | <img src="https://img.shields.io/badge/CVSS-7.8-e05d44?style=flat-square"/> | <img src="https://img.shields.io/badge/EPSS-3.79%25-e05d44?style=flat-square"/> | 0/0+1g* | 🔴 Open |
 | [CVE-2026-60137](Investigation/CVE/CVE-2026-60137/FULL_REPORT_TOOL/CVE-2026-60137_CEO_REPORT.md) | WordPress < 7.0.2 | SQL Injection — WP_Query | <img src="https://img.shields.io/badge/CVSS-N%2FA-555?style=flat-square"/> | <img src="https://img.shields.io/badge/EPSS-4.03%25-e05d44?style=flat-square"/> | 0/528 | ✅ Patched |
 | [CVE-2026-45138](Investigation/CVE/CVE-2026-45138/FULL_REPORT_TOOL/CVE-2026-45138_CEO_REPORT.md) | CI4MS CMS ERP | Stored XSS — Validation Bypass | <img src="https://img.shields.io/badge/CVSS-N%2FA-555?style=flat-square"/> | <img src="https://img.shields.io/badge/EPSS-0.15%25-007ec6?style=flat-square"/> | 0/30 | ✅ Patched |
 | [CVE-2026-56164](Investigation/CVE/CVE-2026-56164/FULL_REPORT_TOOL/CVE-2026-56164_CEO_REPORT.md) | Microsoft SharePoint Server | Elevation of Privilege | <img src="https://img.shields.io/badge/CVSS-N%2FA-555?style=flat-square"/> | <img src="https://img.shields.io/badge/EPSS-5.60%25-e05d44?style=flat-square"/> | 99/429 | 🔴 Open |
 
-*\*CVE-2026-56155: 1 custom-generated rule (0 from repo search)*
+*\*CVE-2026-56155: `+1g` = 1 generated rule (0 searched from repo)*
 
 ### 🌐 Infrastructure Intelligence
 
