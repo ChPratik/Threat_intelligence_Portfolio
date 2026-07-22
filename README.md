@@ -22,7 +22,7 @@
 <p align="center">
   <b>7</b> Active Investigations · 
   <b>Medium – Critical</b> Risk Range · 
-  <b>3,402</b> Sigma Rules · 
+  <b>567</b> Sigma Rules (repo) · 
   <b>20+</b> Intel Sources
 </p>
 
@@ -33,11 +33,11 @@
 | CVE ID | Product | Type | CVSS | EPSS | Detection | Status |
 |--------|---------|------|:----:|:----:|:---------:|--------|
 | [CVE-2026-44359](Investigation/CVE/CVE-2026-44359/FULL_REPORT_TOOL/CVE-2026-44359_CEO_REPORT.md) | Meshtastic Firmware | CI Poisoning — Arbitrary Code Execution | **10.0** 🔴 `██████████` | 1.00% `██░░░░░░░░` | Σ 567 · YARA 0 | ✅ Patched |
-| [CVE-2026-45659](Investigation/CVE/CVE-2026-45659/FULL_REPORT_TOOL/CVE-2026-45659_CEO_REPORT.md) | Microsoft SharePoint | Deserialization — Remote Code Execution | **8.8** 🟠 `████████░░` | 3.22% `████░░░░░░` | Σ 567 · YARA 0 | 🔴 Open |
-| [CVE-2026-56155](Investigation/CVE/CVE-2026-56155/FULL_REPORT_TOOL/CVE-2026-56155_CEO_REPORT.md) | Microsoft AD FS | Elevation of Privilege | **7.8** 🟠 `███████░░░` | 0.38% `░░░░░░░░░░` | Σ 567 · YARA 0 | 🔴 Open |
-| [CVE-2026-60137](Investigation/CVE/CVE-2026-60137/FULL_REPORT_TOOL/CVE-2026-60137_CEO_REPORT.md) | WordPress < 7.0.2 | SQL Injection — WP_Query | **5.9** 🟡 `█████░░░░░` | 4.03% `█████░░░░░` | Σ 567 · YARA 0 | ✅ Patched |
-| [CVE-2026-45138](Investigation/CVE/CVE-2026-45138/FULL_REPORT_TOOL/CVE-2026-45138_CEO_REPORT.md) | CI4MS CMS ERP | Stored XSS — Validation Bypass | **5.4** 🟡 `█████░░░░░` | 0.15% `░░░░░░░░░░` | Σ 567 · YARA 0 | ✅ Patched |
-| [CVE-2026-56164](Investigation/CVE/CVE-2026-56164/FULL_REPORT_TOOL/CVE-2026-56164_CEO_REPORT.md) | Microsoft SharePoint Server | Elevation of Privilege | **5.3** 🟡 `█████░░░░░` | 5.60% `██████░░░░` | Σ 567 · YARA 0 | 🔴 Open |
+| [CVE-2026-45659](Investigation/CVE/CVE-2026-45659/FULL_REPORT_TOOL/CVE-2026-45659_CEO_REPORT.md) | Microsoft SharePoint | Deserialization — Remote Code Execution | **8.8** 🟠 `████████░░` | 3.22% `████░░░░░░` | Σ 74 · YARA 0 | 🔴 Open |
+| [CVE-2026-56155](Investigation/CVE/CVE-2026-56155/FULL_REPORT_TOOL/CVE-2026-56155_CEO_REPORT.md) | Microsoft AD FS | Elevation of Privilege | **7.8** 🟠 `███████░░░` | 0.38% `░░░░░░░░░░` | Σ 1 · YARA 0 | 🔴 Open |
+| [CVE-2026-60137](Investigation/CVE/CVE-2026-60137/FULL_REPORT_TOOL/CVE-2026-60137_CEO_REPORT.md) | WordPress < 7.0.2 | SQL Injection — WP_Query | **5.9** 🟡 `█████░░░░░` | 4.03% `█████░░░░░` | Σ 528 · YARA 0 | ✅ Patched |
+| [CVE-2026-45138](Investigation/CVE/CVE-2026-45138/FULL_REPORT_TOOL/CVE-2026-45138_CEO_REPORT.md) | CI4MS CMS ERP | Stored XSS — Validation Bypass | **5.4** 🟡 `█████░░░░░` | 0.15% `░░░░░░░░░░` | Σ 30 · YARA 0 | ✅ Patched |
+| [CVE-2026-56164](Investigation/CVE/CVE-2026-56164/FULL_REPORT_TOOL/CVE-2026-56164_CEO_REPORT.md) | Microsoft SharePoint Server | Elevation of Privilege | **5.3** 🟡 `█████░░░░░` | 5.60% `██████░░░░` | Σ 528 · YARA 0 | 🔴 Open |
 
 ### 🌐 Infrastructure Intelligence
 
