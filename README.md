@@ -19,12 +19,26 @@
 
 ## 📊 At a Glance
 
-<p align="center">
-  <b>7</b> Active Investigations · 
-  <b>Medium – Critical</b> Risk Range · 
-  <b>567</b> Sigma Rules (repo) · 
-  <b>20+</b> Intel Sources
-</p>
+<table>
+  <tr>
+    <td align="center"><b>🛡️</b></td>
+    <td align="center"><b>⚠️</b></td>
+    <td align="center"><b>📜</b></td>
+    <td align="center"><b>🌐</b></td>
+  </tr>
+  <tr>
+    <td align="center"><b>7</b></td>
+    <td align="center"><b>Medium – Critical</b></td>
+    <td align="center"><b>567</b></td>
+    <td align="center"><b>20+</b></td>
+  </tr>
+  <tr>
+    <td align="center">Active Investigations</td>
+    <td align="center">Risk Range</td>
+    <td align="center">Sigma Rules</td>
+    <td align="center">Intel Sources</td>
+  </tr>
+</table>
 
 ---
 
