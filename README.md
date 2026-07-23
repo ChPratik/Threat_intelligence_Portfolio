@@ -29,7 +29,7 @@
   <tr>
     <td align="center"><b>13</b></td>
     <td align="center"><b>Medium – Critical</b></td>
-    <td align="center"><b>115</b></td>
+    <td align="center"><b>128</b></td>
     <td align="center"><b>20+</b></td>
   </tr>
   <tr>
@@ -52,7 +52,7 @@
 | [CVE-2026-60137](Investigation/CVE/CVE-2026-60137/CVE-2026-60137_CEO_REPORT.md) | WordPress < 7.0.2 | SQL Injection — WP_Query | <img src="https://img.shields.io/badge/CVSS-5.9-dfb317?style=flat-square"/> | <img src="https://img.shields.io/badge/EPSS-4.03%25-e05d44?style=flat-square"/> | 0 | ✅ Patched |
 | [CVE-2026-45138](Investigation/CVE/CVE-2026-45138/CVE-2026-45138_CEO_REPORT.md) | CI4MS CMS ERP | Stored XSS — Validation Bypass | <img src="https://img.shields.io/badge/CVSS-5.4-dfb317?style=flat-square"/> | <img src="https://img.shields.io/badge/EPSS-0.15%25-007ec6?style=flat-square"/> | 0 | ✅ Patched |
 | [CVE-2026-56164](Investigation/CVE/CVE-2026-56164/CVE-2026-56164_CEO_REPORT.md) | Microsoft SharePoint Server | Elevation of Privilege | <img src="https://img.shields.io/badge/CVSS-5.3-dfb317?style=flat-square"/> | <img src="https://img.shields.io/badge/EPSS-5.60%25-e05d44?style=flat-square"/> | 99 | 🔴 Open |
-| [CVE-2026-56844](Investigation/CVE/CVE-2026-56844/CVE-2026-56844_CEO_REPORT.md) | Veeam Backup & Replication | Local Privilege Escalation | <img src="https://img.shields.io/badge/CVSS-8.4-e05d44?style=flat-square"/> | <img src="https://img.shields.io/badge/EPSS-N%2FA-555?style=flat-square"/> | 3 | 🔴 Open |
+| [CVE-2026-56844](Investigation/CVE/CVE-2026-56844/CVE-2026-56844_CEO_REPORT.md) | Veeam Backup & Replication | Local Privilege Escalation | <img src="https://img.shields.io/badge/CVSS-8.4-e05d44?style=flat-square"/> | <img src="https://img.shields.io/badge/EPSS-0.13%25-007ec6?style=flat-square"/> | 16 | 🔴 Open |
 | [CVE-2026-63263](Investigation/CVE/CVE-2026-63263/CVE-2026-63263_CEO_REPORT.md) | Elasticsearch | Denial of Service | <img src="https://img.shields.io/badge/CVSS-6.5-dfb317?style=flat-square"/> | <img src="https://img.shields.io/badge/EPSS-N%2FA-555?style=flat-square"/> | 0 | 🔴 Open |
 | [CVE-2026-16490](Investigation/CVE/CVE-2026-16490/CVE-2026-16490_CEO_REPORT.md) | Hospital Management System | SQL Injection | <img src="https://img.shields.io/badge/CVSS-5.3-dfb317?style=flat-square"/> | <img src="https://img.shields.io/badge/EPSS-N%2FA-555?style=flat-square"/> | 0 | 🔴 Open |
 | [CVE-2026-16492](Investigation/CVE/CVE-2026-16492/CVE-2026-16492_CEO_REPORT.md) | umijs umi | OS Command Injection | <img src="https://img.shields.io/badge/CVSS-5.1-dfb317?style=flat-square"/> | <img src="https://img.shields.io/badge/EPSS-N%2FA-555?style=flat-square"/> | 0 | ✅ Patched |
